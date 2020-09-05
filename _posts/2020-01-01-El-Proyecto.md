@@ -23,6 +23,6 @@ Si quieres participar e ir a la página de videos [da click aquí](https://www.y
 
 <span id="forkongithub">
   <a href="{{ site.source_link }}" class="bg-blue">
-    Ver más documentación
+    See map and story (eng)
   </a>
 </span>
